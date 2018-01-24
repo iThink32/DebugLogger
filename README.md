@@ -10,5 +10,7 @@ Logger.printValue("anything you type here will only appear in debug mode")
 And the output is 
 
 ```
-DriverInformationPresenter.swift:["navigating"]
+DriverInformationPresenter.swift:["anything you type here will only appear in debug mode"]
 ```
+
+here DriverInformationPresenter is the file from which you wrote the print command.

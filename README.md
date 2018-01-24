@@ -13,4 +13,4 @@ And the output is
 DriverInformationPresenter.swift:["anything you type here will only appear in debug mode"]
 ```
 
-here DriverInformationPresenter is the file from which you wrote the print command.
+here DriverInformationPresenter is the file from which you wrote the print command.It is automatically printed you dont have to do anything for it.
